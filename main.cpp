@@ -13,6 +13,6 @@ int main()
   sum = getCalc(n1, n2);
   getOutput(sum, avg);
 
- // #opinion...
+
   return 0;
 }
